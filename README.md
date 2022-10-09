@@ -6,6 +6,8 @@ A Java Spring boot based server that will provide NER's Machine Learning functio
 
 UI for Named Entity Recognition Project.
 
+Github Repo Link: https://github.com/vp09/ner-ui
+
 ## NER model
 
 BERT based NER model with SOTA performance
